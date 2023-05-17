@@ -40,7 +40,6 @@ $ roslaunch vins_estimator euroc.launch
 - Replace <SLAM_PACKAGE_NAME> with the name of the SLAM package and <SLAM_LAUNCH_FILE> with the name of the launch file.
 ## 6.Demo
 - [Euroc Demo]([https://www.bilibili.com/video/BV1Ns4y1M76b/?share_source=copy_web&vd_source=ee24d784b726ef1b7e66ebb6e3cfe4fc](https://www.bilibili.com/video/BV1tk4y1L7fN/?vd_source=1cea8d2ef05dd4472ff8577febae73a7))
-<iframe src="//player.bilibili.com/player.html?aid=ee24d784b726ef1b7e66ebb6e3cfe4fc&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
+<iframe src="//player.bilibili.com/player.html?aid=741212120&bvid=BV1tk4y1L7fN&cid=1132586734&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 Click the image above to watch the video.
 
